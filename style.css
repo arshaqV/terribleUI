@@ -1,0 +1,34 @@
+body {
+    background-color: #121212;
+    display: flex;
+    flex: auto;
+    flex-wrap: wrap;
+}
+
+.slidecontainer {
+    margin: 24px;
+    width: 250px;
+    padding: 24px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #302b2b;
+    border-radius:10pt;
+    font-family: Poppins, Helvetica, sans-serif;
+    color: #dddddd;
+    box-shadow: 4px 4px 4px 4px #0d0d0d;
+}
+
+.guessing {
+    margin:24px;
+    padding:24px;
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius:10pt;
+    font-family: Poppins, Helvetica, sans-serif;
+    background-color: #dddddd;
+    box-shadow: 4px 4px 4px 4px #0d0d0d;}
